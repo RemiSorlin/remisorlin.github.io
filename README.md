@@ -1,11 +1,11 @@
-# Introduction
+# Home
 
 This is the main introduction to the web site.
 
-# Main content
+## Main content
 
-## Content
+### Content
 Here is the main content of the web site.
 
-## Links
+### Links
 Here is a link to the [test page](test.md).
