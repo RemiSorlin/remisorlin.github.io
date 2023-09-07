@@ -1,7 +1,7 @@
-# Introduction
+# Tests
 
 Introduction to the test page
 
-# Test
+# Test content
 
 This is a test page
